@@ -22,7 +22,7 @@ import sys
 
 #Variables for Server Api,Base Urls.
 url = "https://marketdata.tradermade.com/api/v1/live"
-api_key = "xxxxx" #Enter API key here.
+api_key = "JXFzCku6Jm8aBekHQCXS" #Enter API key here.
 verbose = False
 
 n2w_lang = 'en' #Num2Words language.
